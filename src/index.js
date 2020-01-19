@@ -1,3 +1,3 @@
-const test = a => a ^ a;
+const soma = a => a * a;
 
-alert(test(8));
+alert(soma(8));
