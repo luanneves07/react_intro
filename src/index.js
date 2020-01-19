@@ -1,3 +1,4 @@
-const soma = a => a * a;
+import React from 'react';
+import { render } from 'react-dom';
 
-alert(soma(8));
+render(<h1>Olaar</h1>, document.getElementById("app"));
