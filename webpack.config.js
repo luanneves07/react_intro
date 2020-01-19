@@ -25,7 +25,7 @@ module.exports = {
         ]
       }, {
         test: /.*\.(png|jpe?g|gif)$/i,
-        exlude: /node_modules/,
+        exclude: /node_modules/,
         use: {
           loader: 'file-loader'
         }
