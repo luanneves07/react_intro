@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+header {
+  background-color: #4267b2;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-size: 10px 10px;
+  background: #4a90e2;
+  display: flex;
+  justify-content: center;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px;
+  padding: 0 25px;
+  color: #fff;
+  min-width: 980px;
+  font-size: 28px;
+}
+
+nav > h1 {
+  text-align: left;
+}
+
+nav > div {
+  display: flex;
+  align-items: center;
+  text-align: right;
+  font-size: 18px;
+}
+
+nav > div i {
+  margin-left: 8px;
+}
