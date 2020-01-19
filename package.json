@@ -1,0 +1,12 @@
+{
+  "name": "react_intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luanneves07/react_intro.git",
+  "author": "luanneves07 <luannevessilva@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
