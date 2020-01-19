@@ -5,9 +5,9 @@ function Header() {
   return (
     <header>
       <nav>
-        <h1 className="b">Facebook</h1>
+        <h1>Facebook</h1>
         <div>
-          <span className="a">Meu perfil</span>
+          <span>Meu perfil</span>
           <i className="material-icons">account_circle</i>
         </div>
       </nav>
