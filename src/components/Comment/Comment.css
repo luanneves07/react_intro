@@ -1,0 +1,31 @@
+.avatar-coment {
+  min-height: px;
+  min-width: 45px;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+}
+
+.comments {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+}
+
+.comment-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.comment-content p {
+  border-radius: 20px;
+  background: #eeeeee;
+  margin-left: 10px;
+  font-size: 13px;
+  padding: 15px;
+}
+
+.comment-content .author {
+  padding-right: 8px;
+  font-weight: bold;
+}
