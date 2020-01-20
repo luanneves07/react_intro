@@ -4,6 +4,7 @@ header {
   background-color: #4267b2;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: #4a90e2;
+  display: flex;
   justify-content: center;
 }
 
@@ -12,7 +13,7 @@ header nav {
   justify-content: space-between;
   align-items: center;
   height: 64px;
-  padding: 0 20px;
+  padding: 0 45px;
   color: #fff;
   min-width: 980px;
 }
