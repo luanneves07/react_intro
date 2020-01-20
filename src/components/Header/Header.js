@@ -5,7 +5,7 @@ function Header() {
   return (
     <header>
       <nav>
-        <h1>Facebook</h1>
+        <h1>LuanBook</h1>
         <div>
           <span>Meu perfil</span>
           <i className="material-icons">account_circle</i>
